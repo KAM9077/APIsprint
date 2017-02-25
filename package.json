@@ -1,0 +1,19 @@
+{
+  "name": "apisprint",
+  "version": "1.0.0",
+  "description": "a sprint for group b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KAM9077/APIsprint.git"
+  },
+  "author": "kamal hajjar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KAM9077/APIsprint/issues"
+  },
+  "homepage": "https://github.com/KAM9077/APIsprint#readme"
+}
