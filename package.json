@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/KAM9077/APIsprint/issues"
   },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "*",
+    "mongodb": "*",
+    "mongoose": "^4.5.8"
+  },
   "homepage": "https://github.com/KAM9077/APIsprint#readme"
 }
