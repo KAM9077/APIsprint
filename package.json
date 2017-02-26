@@ -2,9 +2,10 @@
   "name": "apisprint",
   "version": "1.0.0",
   "description": "a sprint for group b",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +20,8 @@
     "body-parser": "^1.16.1",
     "express": "*",
     "mongodb": "*",
-    "mongoose": "^4.5.8"
+    "mongoose": "*",
+    "morgan": "^1.8.1"
   },
   "homepage": "https://github.com/KAM9077/APIsprint#readme"
 }
